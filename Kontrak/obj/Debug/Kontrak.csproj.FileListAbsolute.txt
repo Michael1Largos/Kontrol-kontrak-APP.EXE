@@ -1,0 +1,13 @@
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\bin\Debug\Database1.mdf
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\bin\Debug\Database1_log.ldf
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\bin\Debug\Kontrak.exe.config
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\bin\Debug\Kontrak.exe
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\bin\Debug\Kontrak.pdb
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.csproj.AssemblyReference.cache
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.csproj.SuggestedBindingRedirects.cache
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.Form1.resources
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.Properties.Resources.resources
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.csproj.GenerateResource.cache
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.csproj.CoreCompileInputs.cache
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.exe
+C:\Users\MIchael Limas\Documents\Kontrol Kontrak\Kontrak\obj\Debug\Kontrak.pdb
